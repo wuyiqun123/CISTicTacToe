@@ -1,0 +1,9 @@
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\bin\Debug\TTTBoardTests.dll
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\bin\Debug\TTTBoardTests.pdb
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\bin\Debug\TTTBoard.dll
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\bin\Debug\TTTBoard.pdb
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\obj\Debug\TTTBoardTests.csprojResolveAssemblyReference.cache
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\obj\Debug\TTTBoardTests.dll
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoardTests\obj\Debug\TTTBoardTests.pdb

@@ -1,0 +1,5 @@
+D:\QAnT-Lab-8\CISTicTacToe\bin\Debug\CISTicTacToe.dll
+D:\QAnT-Lab-8\CISTicTacToe\bin\Debug\CISTicTacToe.pdb
+D:\QAnT-Lab-8\CISTicTacToe\obj\Debug\CISTicTacToe.csprojAssemblyReference.cache
+D:\QAnT-Lab-8\CISTicTacToe\obj\Debug\CISTicTacToe.dll
+D:\QAnT-Lab-8\CISTicTacToe\obj\Debug\CISTicTacToe.pdb

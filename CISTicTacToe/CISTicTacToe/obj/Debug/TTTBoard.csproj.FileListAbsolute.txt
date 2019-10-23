@@ -1,0 +1,5 @@
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoard\bin\Debug\TTTBoard.dll
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoard\bin\Debug\TTTBoard.pdb
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoard\obj\Debug\TTTBoard.csprojResolveAssemblyReference.cache
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoard\obj\Debug\TTTBoard.dll
+c:\users\tug99053\documents\visual studio 2015\Projects\TTT\TTTBoard\obj\Debug\TTTBoard.pdb

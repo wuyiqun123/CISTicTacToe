@@ -1,0 +1,10 @@
+D:\QAnT-Lab-8\CISTicTacToeTests\bin\Debug\CISTicTacToeTests.dll
+D:\QAnT-Lab-8\CISTicTacToeTests\bin\Debug\CISTicTacToeTests.pdb
+D:\QAnT-Lab-8\CISTicTacToeTests\bin\Debug\CISTicTacToe.dll
+D:\QAnT-Lab-8\CISTicTacToeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\QAnT-Lab-8\CISTicTacToeTests\bin\Debug\CISTicTacToe.pdb
+D:\QAnT-Lab-8\CISTicTacToeTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\QAnT-Lab-8\CISTicTacToeTests\obj\Debug\CISTicTacToeTests.csprojAssemblyReference.cache
+D:\QAnT-Lab-8\CISTicTacToeTests\obj\Debug\CISTicTacToeTests.csproj.CopyComplete
+D:\QAnT-Lab-8\CISTicTacToeTests\obj\Debug\CISTicTacToeTests.dll
+D:\QAnT-Lab-8\CISTicTacToeTests\obj\Debug\CISTicTacToeTests.pdb
